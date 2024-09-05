@@ -1,6 +1,6 @@
 ﻿bool CheckingSymmetry(int[][] matrix, int n)
 {
-    int flag = 1;
+    bool flag = 1;
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n; j++)
@@ -18,24 +18,24 @@
     }
     else return false;
 }
-void rez(int[][]matr, int[]vect, int n)
+void VectorLength(int[][]matrix, int[]vector, int n)
 {
-    int[] newm;
+    int[] newmatrix;
     int sum = 0;
-    newm = new int[n];
+    newmatrix = new int[n];
     for (int i = 0; i < n; i++)
     {
         sum = 0;
         for (int j = 0; j < n; j++)
         {
-            sum += vect[j] * matr[j][i];
+            sum += vector[j] * matrix[j][i];
         }
-        newm[i] = sum;
+        newmatrix[i] = sum;
     }
     sum = 0;
     for (int i = 0; i < n; i++)
     {
-        sum += newm[i] * vect[i];
+        sum += newmatrix[i] * vector[i];
     }
     Console.WriteLine(Math.Sqrt(sum));
 }
@@ -45,30 +45,30 @@ try
 {
     StreamReader sr = new StreamReader(path);
     int n=Convert.ToInt32(sr.ReadLine());
-    int[][] matr=new int[n][];
+    int[][] matrix=new int[n][];
     
     for (int i = 0; i < n; ++i)
     {
         line = sr.ReadLine();
-        matr[i] = line.Split(' ').Select(x => Convert.ToInt32(x)).ToArray();
+        matrix[i] = line.Split(' ').Select(x => Convert.ToInt32(x)).ToArray();
         
     }
     line = sr.ReadLine();
-    int[] vect = new int[n];
-    vect = line.Split(' ').Select(x => Convert.ToInt32(x)).ToArray();
+    int[] vector = new int[n];
+    vector = line.Split(' ').Select(x => Convert.ToInt32(x)).ToArray();
     for (int i = 0; i < n; i++)
     {
-        Console.WriteLine(vect[i]);
+        Console.WriteLine(vector[i]);
     }
     sr.Close();
-    if (CheckingSymmetry(matr, n))
+    if (CheckingSymmetry(matrix, n))
     {
-        Console.WriteLine("jd");
+        Console.WriteLine("Matrix Symmetry");
     }
-    rez(matr, vect, n);
+    VectorLength(matrix, vector, n);
         
 }
 catch(Exception e)
 {
-    Console.WriteLine("ex" + e.Message);
+    Console.WriteLine("exception" + e.Message);
 }
