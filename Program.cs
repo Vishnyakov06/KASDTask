@@ -1,24 +1,18 @@
-﻿bool CheckingSymmetry(int[][] matrix, int n)
+﻿bool CheckSymmetry(int[][] matrix, int n)
 {
-    bool flag = 1;
     for (int i = 0; i < n; i++)
+{
+    for (int j = i+1; j < n; j++)
     {
-        for (int j = 0; j < n; j++)
+        if (matrix[i][j] != matrix[j][i])
         {
-            if (i == j) continue;
-            if (matrix[i][j] != matrix[j][i])
-            {
-                flag = 0;
-            }
+            return false;
         }
     }
-    if (flag == 1)
-    {
-        return true;
-    }
-    else return false;
 }
-void VectorLength(int[][]matrix, int[]vector, int n)
+return true;
+}
+double CalculateLengthVector(int[][]matrix, int[]vector, int n)
 {
     int[] newmatrix;
     int sum = 0;
@@ -37,15 +31,18 @@ void VectorLength(int[][]matrix, int[]vector, int n)
     {
         sum += newmatrix[i] * vector[i];
     }
-    Console.WriteLine(Math.Sqrt(sum));
+    return Math.Sqrt(sum);
 }
 string path = "TextFile1.txt";
 string? line;
+int n = 0;
+int[][] matrix = new int[0][];
+int[] vector = new int[0];
 try
 {
     StreamReader sr = new StreamReader(path);
-    int n=Convert.ToInt32(sr.ReadLine());
-    int[][] matrix=new int[n][];
+    n=Convert.ToInt32(sr.ReadLine());
+    matrix=new int[n][];
     
     for (int i = 0; i < n; ++i)
     {
@@ -54,21 +51,22 @@ try
         
     }
     line = sr.ReadLine();
-    int[] vector = new int[n];
+    vector = new int[n];
     vector = line.Split(' ').Select(x => Convert.ToInt32(x)).ToArray();
     for (int i = 0; i < n; i++)
     {
         Console.WriteLine(vector[i]);
     }
     sr.Close();
-    if (CheckingSymmetry(matrix, n))
-    {
-        Console.WriteLine("Matrix Symmetry");
-    }
-    VectorLength(matrix, vector, n);
+    
         
 }
 catch(Exception e)
 {
     Console.WriteLine("exception" + e.Message);
 }
+if (CheckSymmetry(matrix, n))
+    {
+        Console.WriteLine("Matrix Symmetry");
+    }
+    Console.WriteLine(VectorLength(matrix, vector, n));
