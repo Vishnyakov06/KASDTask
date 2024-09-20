@@ -12,7 +12,7 @@ namespace Task5
             bool isOpen=false;
             bool isClose= false;
             string? line=sr.ReadLine();
-            if (line == null) { Console.WriteLine("kdjd"); }
+            if (line == null) { Console.WriteLine("Строчка пуста"); }
             var arrayTeg = new MyArrayList<string>(10);
             string teg = "";
             while (line != null)
