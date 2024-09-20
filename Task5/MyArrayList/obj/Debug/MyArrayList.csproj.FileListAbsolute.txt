@@ -1,0 +1,6 @@
+C:\Users\danya\source\repos\Task5\MyArrayList\bin\Debug\MyArrayList.dll
+C:\Users\danya\source\repos\Task5\MyArrayList\bin\Debug\MyArrayList.pdb
+C:\Users\danya\source\repos\Task5\MyArrayList\obj\Debug\MyArrayList.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\Task5\MyArrayList\obj\Debug\MyArrayList.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task5\MyArrayList\obj\Debug\MyArrayList.dll
+C:\Users\danya\source\repos\Task5\MyArrayList\obj\Debug\MyArrayList.pdb
