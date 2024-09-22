@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\Task6\Task6\bin\Debug\net8.0\Task6.exe
+C:\Users\danya\source\repos\Task6\Task6\bin\Debug\net8.0\Task6.deps.json
+C:\Users\danya\source\repos\Task6\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+C:\Users\danya\source\repos\Task6\Task6\bin\Debug\net8.0\Task6.dll
+C:\Users\danya\source\repos\Task6\Task6\bin\Debug\net8.0\Task6.pdb
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\Task6.dll
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\refint\Task6.dll
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\Task6.pdb
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+C:\Users\danya\source\repos\Task6\Task6\obj\Debug\net8.0\ref\Task6.dll
