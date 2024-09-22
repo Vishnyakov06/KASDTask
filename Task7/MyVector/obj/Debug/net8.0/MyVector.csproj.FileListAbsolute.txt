@@ -1,0 +1,11 @@
+C:\Users\danya\source\repos\Task7\MyVector\bin\Debug\net8.0\MyVector.deps.json
+C:\Users\danya\source\repos\Task7\MyVector\bin\Debug\net8.0\MyVector.dll
+C:\Users\danya\source\repos\Task7\MyVector\bin\Debug\net8.0\MyVector.pdb
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\MyVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\MyVector.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\MyVector.AssemblyInfo.cs
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\MyVector.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\MyVector.dll
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\refint\MyVector.dll
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\MyVector.pdb
+C:\Users\danya\source\repos\Task7\MyVector\obj\Debug\net8.0\ref\MyVector.dll
