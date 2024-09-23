@@ -155,19 +155,16 @@ namespace Vector
                 AddAll(array);
                 return;
             }
-            else
-            {
-                int ind = 0;
-                T[] newArray = new T[elementCount + array.Length];
-                for (int i = 0; i < index; i++)
-                    newArray[i] = elementData[i];
-                for (int i = index; i < index + array.Length; i++)
-                    newArray[i] = array[ind++];
-                for (int i = index + array.Length; i < elementCount; i++)
-                    newArray[i] = elementData[i];
-                elementData = newArray;
-                elementCount = newArray.Length;
-            }
+            int ind = 0;
+            T[] newArray = new T[elementCount + array.Length];
+            for (int i = 0; i < index; i++)
+                newArray[i] = elementData[i];
+            for (int i = index; i < index + array.Length; i++)
+                newArray[i] = array[ind++];
+            for (int i = index + array.Length; i < elementCount; i++)
+                newArray[i] = elementData[i];
+            elementData = newArray;
+            elementCount = newArray.Length;
         }
         public int IndexOf(T element)
         {
