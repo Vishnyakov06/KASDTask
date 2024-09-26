@@ -1,0 +1,11 @@
+C:\Users\danya\source\repos\Task9\MyStack\bin\Debug\net8.0\MyStack.deps.json
+C:\Users\danya\source\repos\Task9\MyStack\bin\Debug\net8.0\MyStack.dll
+C:\Users\danya\source\repos\Task9\MyStack\bin\Debug\net8.0\MyStack.pdb
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfo.cs
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\MyStack.dll
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\refint\MyStack.dll
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\MyStack.pdb
+C:\Users\danya\source\repos\Task9\MyStack\obj\Debug\net8.0\ref\MyStack.dll
