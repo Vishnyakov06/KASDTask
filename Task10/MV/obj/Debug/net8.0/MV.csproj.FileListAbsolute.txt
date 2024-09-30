@@ -1,0 +1,11 @@
+C:\Users\danya\source\repos\Task10\MV\bin\Debug\net8.0\MV.deps.json
+C:\Users\danya\source\repos\Task10\MV\bin\Debug\net8.0\MV.dll
+C:\Users\danya\source\repos\Task10\MV\bin\Debug\net8.0\MV.pdb
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\MV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\MV.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\MV.AssemblyInfo.cs
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\MV.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\MV.dll
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\refint\MV.dll
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\MV.pdb
+C:\Users\danya\source\repos\Task10\MV\obj\Debug\net8.0\ref\MV.dll

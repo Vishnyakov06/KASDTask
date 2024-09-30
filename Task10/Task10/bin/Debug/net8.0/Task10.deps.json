@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Task10/1.0.0": {
+        "dependencies": {
+          "MV": "1.0.0"
+        },
+        "runtime": {
+          "Task10.dll": {}
+        }
+      },
+      "MV/1.0.0": {
+        "runtime": {
+          "MV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
