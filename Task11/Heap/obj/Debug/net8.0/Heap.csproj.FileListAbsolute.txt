@@ -1,0 +1,11 @@
+C:\Users\danya\source\repos\Task11\Heap\bin\Debug\net8.0\Heap.deps.json
+C:\Users\danya\source\repos\Task11\Heap\bin\Debug\net8.0\Heap.dll
+C:\Users\danya\source\repos\Task11\Heap\bin\Debug\net8.0\Heap.pdb
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\Heap.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\Heap.AssemblyInfo.cs
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\Heap.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\Heap.dll
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\refint\Heap.dll
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\Heap.pdb
+C:\Users\danya\source\repos\Task11\Heap\obj\Debug\net8.0\ref\Heap.dll
