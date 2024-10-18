@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\Task14\Task14\bin\Debug\net8.0\Task14.exe
+C:\Users\danya\source\repos\Task14\Task14\bin\Debug\net8.0\Task14.deps.json
+C:\Users\danya\source\repos\Task14\Task14\bin\Debug\net8.0\Task14.runtimeconfig.json
+C:\Users\danya\source\repos\Task14\Task14\bin\Debug\net8.0\Task14.dll
+C:\Users\danya\source\repos\Task14\Task14\bin\Debug\net8.0\Task14.pdb
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\Task14.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\Task14.AssemblyInfo.cs
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\Task14.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\Task14.dll
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\refint\Task14.dll
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\Task14.pdb
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\Task14.genruntimeconfig.cache
+C:\Users\danya\source\repos\Task14\Task14\obj\Debug\net8.0\ref\Task14.dll
