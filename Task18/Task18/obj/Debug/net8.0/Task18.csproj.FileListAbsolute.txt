@@ -1,0 +1,15 @@
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.AssemblyInfo.cs
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Task18\Task18\bin\Debug\net8.0\Task18.deps.json
+C:\Users\danya\source\repos\Task18\Task18\bin\Debug\net8.0\Task18.dll
+C:\Users\danya\source\repos\Task18\Task18\bin\Debug\net8.0\Task18.pdb
+C:\Users\danya\source\repos\Task18\Task18\bin\Debug\net8.0\Task16.Dop.dll
+C:\Users\danya\source\repos\Task18\Task18\bin\Debug\net8.0\Task16.Dop.pdb
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.csproj.Up2Date
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.dll
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\refint\Task18.dll
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\Task18.pdb
+C:\Users\danya\source\repos\Task18\Task18\obj\Debug\net8.0\ref\Task18.dll
